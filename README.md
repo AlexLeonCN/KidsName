@@ -20,4 +20,5 @@ pip install opencc-python-reimplemented
 python3 scripts/generate_liang_boy_names.py
 ```
 
-笔画数据见 `data/name_char_strokes.json`（由 Kangxi stroke count 表抽取）。
+- 笔画：`data/name_char_strokes.json`（康熙笔画）
+- 字义五行：`data/char_wuxing.json`（起名字典；与三才数理五行不同，如「景」字义属木）
