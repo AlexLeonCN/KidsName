@@ -13,6 +13,7 @@ from opencc import OpenCC
 
 ROOT = Path(__file__).resolve().parents[1]
 STROKE_JSON = ROOT / "data" / "name_char_strokes.json"
+WUXING_JSON = ROOT / "data" / "char_wuxing.json"
 KANGXI_CSV = ROOT / "data" / "kangxi-strokecount.csv"
 KANGXI_FALLBACK = Path("/tmp/kangxi.csv")
 OUT_MD = ROOT / "梁姓男孩三字名_五格三才吉名.md"
@@ -20,6 +21,16 @@ KANGXI_URL = (
     "https://raw.githubusercontent.com/breezyreeds/kangxi-strokecount/"
     "master/kangxi-strokecount.csv"
 )
+
+# 字义五行兜底（标准字典未收录时）
+WUXING_FALLBACK = {
+    "埔": "土",
+    "堃": "土",
+    "烨": "火",
+    "璟": "木",
+    "祐": "木",
+    "翱": "金",
+}
 
 # 现代男孩名常用字（用于排序与精选）
 PREFERRED_FIRST = set(
@@ -590,9 +601,26 @@ def load_strokes(cc: OpenCC) -> Dict[str, int]:
     return data
 
 
-def build_charset(strokes: Dict[str, int], cc: OpenCC) -> Dict[str, CharInfo]:
+def load_char_wuxing(cc: OpenCC) -> Dict[str, str]:
+    """加载起名字义五行（非三才数理五行）。"""
+    import json
+
+    raw = json.loads(WUXING_JSON.read_text(encoding="utf-8"))
+    data: Dict[str, str] = dict(raw)
+    # 繁简互查
+    for ch, wx in list(raw.items()):
+        trad = cc.convert(ch)
+        data.setdefault(trad, wx)
+        data.setdefault(ch, wx)
+    data.update(WUXING_FALLBACK)
+    return data
+
+
+def build_charset(
+    strokes: Dict[str, int], char_wx: Dict[str, str], cc: OpenCC
+) -> Dict[str, CharInfo]:
     out: Dict[str, CharInfo] = {}
-    for ch, wx, meaning in BOY_CHARS:
+    for ch, _wx_old, meaning in BOY_CHARS:
         if ch in out:
             continue
         if any(tag in meaning for tag in ("少用", "不宜", "忌", "慎用")):
@@ -602,6 +630,8 @@ def build_charset(strokes: Dict[str, int], cc: OpenCC) -> Dict[str, CharInfo]:
         if st is None:
             print(f"WARN: missing strokes for {ch}/{trad}")
             continue
+        # 字义五行以标准起名字典为准（如景=木），不用三才数理五行
+        wx = char_wx.get(ch) or char_wx.get(trad) or _wx_old
         out[ch] = CharInfo(ch=ch, trad=trad, strokes=st, wuxing=wx, meaning=meaning)
     return out
 
@@ -632,11 +662,9 @@ def row_md(i: int, r: dict, sur_st: int) -> str:
         f"总{w['总格']}{lb['总格']}"
     )
     sancai_cell = f"{r['sancai']}（{r['sc_level']}）<br>{r['sc_desc']}"
-    wuxing_cell = (
-        f"字义：梁木·{c1.ch}{c1.wuxing}·{c2.ch}{c2.wuxing}<br>"
-        f"三才：{'·'.join(r['sancai'])}"
-    )
     meaning = f"{c1.ch}：{c1.meaning}；{c2.ch}：{c2.meaning}"
+    # sur_wx 由调用方写入 r
+    wuxing_cell = f"梁{r['sur_wx']}·{c1.ch}{c1.wuxing}·{c2.ch}{c2.wuxing}"
     return (
         f"| {i} | {r['name']} | {stroke_cell} | {wuge_cell} | "
         f"{sancai_cell} | {wuxing_cell} | {meaning} |"
@@ -646,9 +674,11 @@ def row_md(i: int, r: dict, sur_st: int) -> str:
 def main() -> None:
     cc = OpenCC("s2t")
     strokes = load_strokes(cc)
-    charset = build_charset(strokes, cc)
+    char_wx = load_char_wuxing(cc)
+    charset = build_charset(strokes, char_wx, cc)
     sur_st = strokes.get("梁") or strokes[cc.convert("梁")]
     assert sur_st == 11, sur_st
+    sur_wx = char_wx.get("梁", "火")
 
     chars = sorted(charset.values(), key=lambda x: (x.strokes, x.ch))
     allow_dup = set("明浩宇辰安轩杰昂")
@@ -687,6 +717,7 @@ def main() -> None:
                     "sancai": f"{tw}{rw}{dw}",
                     "sc_level": sc_level,
                     "sc_desc": sc_desc,
+                    "sur_wx": sur_wx,
                 }
             )
 
@@ -743,16 +774,16 @@ def main() -> None:
     picks = picks[:100]
 
     table_header = [
-        "| 序号 | 姓名 | 康熙笔画（繁） | 五格（数/吉凶） | 三才 | 五行 | 释义 |",
+        "| 序号 | 姓名 | 康熙笔画（繁） | 五格（数/吉凶） | 三才（数理五行/吉凶） | 字义五行 | 释义 |",
         "| ---: | --- | --- | --- | --- | --- | --- |",
     ]
 
     lines: List[str] = [
         "# 梁姓男孩三字名（五格·三才筛选）",
         "",
-        "> 说明：本表按《康熙字典》繁体笔画（含特殊部首还原）计算五格；三才取天、人、地格数理五行。",
+        "> 说明：本表按《康熙字典》繁体笔画（含特殊部首还原）计算五格；三才取天、人、地格**数理五行**。",
         ">",
-        "> **姓氏**：梁（康熙笔画 **11**）→ 天格 = 11+1 = **12**（木）。",
+        "> **姓氏**：梁（康熙笔画 **11**；字义五行属**火**）→ 天格 = 11+1 = **12**（数理五行：木）。",
         ">",
         "> **关于天格**：12 为「薄弱」数，传统多判为**凶**。天格仅由姓氏决定、不可更改；"
         "通行起名法以人格、地格、外格、总格为取舍重点。本表筛选时**不因天格而否决**，但仍标注其吉凶。",
@@ -764,7 +795,9 @@ def main() -> None:
         ">",
         f"> 字库：{len(charset)} 个男孩宜用字；符合条件名字共 **{len(results)}** 个。",
         ">",
-        "> 「字义五行」为各字通行属性；「三才五行」为天·人·地格数理五行。"
+        "> **字义五行 ≠ 三才五行**：",
+        "> 「字义五行」按起名字典标注各字本身属性（例：景属**木**）；"
+        "「三才」列中的金木水火土是五格笔画数理换算结果，二者不要混用。"
         "释义供文化参考，正式选用请再结合生辰八字、家族辈分与读音忌讳。",
         ">",
         "> **梁姓首字提示**：人格 = 11 + 名首字康熙笔画。"
