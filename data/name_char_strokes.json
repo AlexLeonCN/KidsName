@@ -1,0 +1,2444 @@
+{
+  "林": {
+    "trad": "林",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "双木成林，象征生机繁茂"
+  },
+  "森": {
+    "trad": "森",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "树木众多，寓厚实茂盛"
+  },
+  "柏": {
+    "trad": "柏",
+    "strokes": 9,
+    "wuxing": "木",
+    "meaning": "柏树常青，寓坚贞长寿"
+  },
+  "桐": {
+    "trad": "桐",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "梧桐高洁，常喻栖凤之材"
+  },
+  "楠": {
+    "trad": "楠",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "楠木珍贵，寓质美才良"
+  },
+  "栋": {
+    "trad": "棟",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "栋梁之材，寓能担重任"
+  },
+  "彬": {
+    "trad": "彬",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "文质彬彬，寓文雅有礼"
+  },
+  "栩": {
+    "trad": "栩",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "栩栩如生，寓生动有神"
+  },
+  "杰": {
+    "trad": "傑",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "杰出卓越，寓出众之才"
+  },
+  "松": {
+    "trad": "松",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "松柏长青，寓坚韧不拔"
+  },
+  "竹": {
+    "trad": "竹",
+    "strokes": 6,
+    "wuxing": "木",
+    "meaning": "虚心有节，寓清正高雅"
+  },
+  "笙": {
+    "trad": "笙",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "笙乐和鸣，寓雅韵和谐"
+  },
+  "苗": {
+    "trad": "苗",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "禾苗初长，寓成长可期"
+  },
+  "茂": {
+    "trad": "茂",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "草木丰盛，寓兴旺发达"
+  },
+  "荣": {
+    "trad": "榮",
+    "strokes": 14,
+    "wuxing": "木",
+    "meaning": "繁荣光荣，寓昌盛有光"
+  },
+  "杭": {
+    "trad": "杭",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "济渡有方，寓通达前进"
+  },
+  "柯": {
+    "trad": "柯",
+    "strokes": 9,
+    "wuxing": "木",
+    "meaning": "枝柯挺拔，寓有本有立"
+  },
+  "楷": {
+    "trad": "楷",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "楷模法式，寓可为典范"
+  },
+  "杉": {
+    "trad": "杉",
+    "strokes": 7,
+    "wuxing": "木",
+    "meaning": "杉树挺拔，寓正直向上"
+  },
+  "材": {
+    "trad": "材",
+    "strokes": 7,
+    "wuxing": "木",
+    "meaning": "成材之木，寓可造之才"
+  },
+  "来": {
+    "trad": "來",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "将来可期，寓前景开阔"
+  },
+  "东": {
+    "trad": "東",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "东方主生，寓欣欣向荣"
+  },
+  "极": {
+    "trad": "極",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "登峰至极，寓追求卓越"
+  },
+  "析": {
+    "trad": "析",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "分析明辨，寓条理清晰"
+  },
+  "果": {
+    "trad": "果",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "成果果决，寓有始有终"
+  },
+  "枢": {
+    "trad": "樞",
+    "strokes": 15,
+    "wuxing": "木",
+    "meaning": "中枢关键，寓担当要职"
+  },
+  "枫": {
+    "trad": "楓",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "枫叶鲜明，寓风华出色"
+  },
+  "标": {
+    "trad": "標",
+    "strokes": 15,
+    "wuxing": "木",
+    "meaning": "标举榜样，寓树立准则"
+  },
+  "树": {
+    "trad": "樹",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "树木建树，寓有所成就"
+  },
+  "校": {
+    "trad": "校",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "校正学问，寓切磋向学"
+  },
+  "样": {
+    "trad": "樣",
+    "strokes": 15,
+    "wuxing": "木",
+    "meaning": "榜样样式，寓足为模范"
+  },
+  "根": {
+    "trad": "根",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "根本扎实，寓务本务实"
+  },
+  "格": {
+    "trad": "格",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "品格格局，寓格调高远"
+  },
+  "桂": {
+    "trad": "桂",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "折桂登科，寓功名有成"
+  },
+  "桅": {
+    "trad": "桅",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "桅杆高扬，寓志向高举"
+  },
+  "桓": {
+    "trad": "桓",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "桓桓威武，寓雄健有威"
+  },
+  "桢": {
+    "trad": "楨",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "桢干之材，寓骨干之才"
+  },
+  "桥": {
+    "trad": "橋",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "桥梁沟通，寓担当连接"
+  },
+  "桦": {
+    "trad": "樺",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "白桦挺秀，寓清峻秀拔"
+  },
+  "梓": {
+    "trad": "梓",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "梓材成器，寓成才可期"
+  },
+  "梗": {
+    "trad": "梗",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "梗直不阿，寓刚正"
+  },
+  "梧": {
+    "trad": "梧",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "梧桐高洁，寓德音清远"
+  },
+  "梦": {
+    "trad": "夢",
+    "strokes": 14,
+    "wuxing": "木",
+    "meaning": "梦想理想，寓志存高远"
+  },
+  "梯": {
+    "trad": "梯",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "阶梯上进，寓步步高升"
+  },
+  "棋": {
+    "trad": "棋",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "棋局谋略，寓胸有成竹"
+  },
+  "棠": {
+    "trad": "棠",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "甘棠遗爱，寓惠泽后人"
+  },
+  "棣": {
+    "trad": "棣",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "棠棣之华，寓兄弟和睦"
+  },
+  "植": {
+    "trad": "植",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "培植立身，寓立德立业"
+  },
+  "槐": {
+    "trad": "槐",
+    "strokes": 14,
+    "wuxing": "木",
+    "meaning": "槐树公卿，寓仕途嘉兆"
+  },
+  "权": {
+    "trad": "權",
+    "strokes": 22,
+    "wuxing": "木",
+    "meaning": "权衡裁断，寓能定大局"
+  },
+  "梁": {
+    "trad": "梁",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "姓氏"
+  },
+  "强": {
+    "trad": "強",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "强健自强，寓刚健不息"
+  },
+  "宽": {
+    "trad": "寬",
+    "strokes": 15,
+    "wuxing": "木",
+    "meaning": "宽厚大度，寓胸襟开阔"
+  },
+  "恭": {
+    "trad": "恭",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "恭敬谦逊，寓礼敬有节"
+  },
+  "敬": {
+    "trad": "敬",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "恭敬慎重，寓肃穆向善"
+  },
+  "异": {
+    "trad": "異",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "卓异出众，寓不凡"
+  },
+  "巨": {
+    "trad": "巨",
+    "strokes": 5,
+    "wuxing": "木",
+    "meaning": "巨大气魄，寓格局宏大"
+  },
+  "本": {
+    "trad": "本",
+    "strokes": 5,
+    "wuxing": "木",
+    "meaning": "根本务本，寓敦本务实"
+  },
+  "朱": {
+    "trad": "朱",
+    "strokes": 6,
+    "wuxing": "木",
+    "meaning": "朱红鲜明，寓光彩明丽"
+  },
+  "朴": {
+    "trad": "樸",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "朴实敦厚，寓返璞归真"
+  },
+  "机": {
+    "trad": "機",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "机智机缘，寓敏于事机"
+  },
+  "术": {
+    "trad": "術",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "学术技艺，寓学有专长"
+  },
+  "李": {
+    "trad": "李",
+    "strokes": 7,
+    "wuxing": "木",
+    "meaning": "李树芬芳，亦寓嘉木"
+  },
+  "杨": {
+    "trad": "楊",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "杨柳依依，寓生机柔韧"
+  },
+  "梅": {
+    "trad": "梅",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "梅花傲雪，寓高洁坚贞"
+  },
+  "翔": {
+    "trad": "翔",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "飞翔远举，寓志在四方"
+  },
+  "翼": {
+    "trad": "翼",
+    "strokes": 18,
+    "wuxing": "木",
+    "meaning": "羽翼辅翼，寓助力有成"
+  },
+  "翱": {
+    "trad": "翱",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "翱翔天际，寓高飞远引"
+  },
+  "季": {
+    "trad": "季",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "季才居后亦有成，寓厚积"
+  },
+  "寓": {
+    "trad": "寓",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "寄寓寓意，寓意涵深远"
+  },
+  "廉": {
+    "trad": "廉",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "清廉方正，寓洁身自好"
+  },
+  "康": {
+    "trad": "康",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "安康康宁，寓身心康泰"
+  },
+  "居": {
+    "trad": "居",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "安居守正，寓稳妥得所"
+  },
+  "期": {
+    "trad": "期",
+    "strokes": 12,
+    "wuxing": "木",
+    "meaning": "期望可期，寓前程可待"
+  },
+  "月": {
+    "trad": "月",
+    "strokes": 4,
+    "wuxing": "木",
+    "meaning": "月亮清朗，寓澄明皎洁"
+  },
+  "朋": {
+    "trad": "朋",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "朋友友爱，寓重义"
+  },
+  "未": {
+    "trad": "未",
+    "strokes": 5,
+    "wuxing": "木",
+    "meaning": "未来可期，寓展望"
+  },
+  "更": {
+    "trad": "更",
+    "strokes": 7,
+    "wuxing": "木",
+    "meaning": "更新更进，寓日新又新"
+  },
+  "炎": {
+    "trad": "炎",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "火炎向上，寓热情兴盛"
+  },
+  "烨": {
+    "trad": "燁",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "火光盛大，寓光辉照耀"
+  },
+  "煜": {
+    "trad": "煜",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "照耀明亮，寓才华焕发"
+  },
+  "煊": {
+    "trad": "煊",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "温暖光明，寓声华显赫"
+  },
+  "昊": {
+    "trad": "昊",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "昊天广阔，寓胸怀开阔"
+  },
+  "晖": {
+    "trad": "暉",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "阳光和晖，寓温暖明朗"
+  },
+  "旭": {
+    "trad": "旭",
+    "strokes": 6,
+    "wuxing": "火",
+    "meaning": "旭日东升，寓朝气蓬勃"
+  },
+  "阳": {
+    "trad": "陽",
+    "strokes": 17,
+    "wuxing": "火",
+    "meaning": "阳光正向，寓明朗刚健"
+  },
+  "朗": {
+    "trad": "朗",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "明亮开阔，寓开朗通达"
+  },
+  "昭": {
+    "trad": "昭",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "光明显著，寓昭彰美名"
+  },
+  "曜": {
+    "trad": "曜",
+    "strokes": 18,
+    "wuxing": "火",
+    "meaning": "日光照耀，寓光彩夺目"
+  },
+  "晟": {
+    "trad": "晟",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "光明兴盛，寓盛大昌明"
+  },
+  "灿": {
+    "trad": "燦",
+    "strokes": 17,
+    "wuxing": "火",
+    "meaning": "灿烂耀眼，寓英华外发"
+  },
+  "炯": {
+    "trad": "炯",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "目光炯炯，寓神采奕奕"
+  },
+  "焕": {
+    "trad": "煥",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "焕然一新，寓振发有光"
+  },
+  "烽": {
+    "trad": "烽",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "烽火警醒，寓壮烈有为"
+  },
+  "熠": {
+    "trad": "熠",
+    "strokes": 15,
+    "wuxing": "火",
+    "meaning": "光耀鲜明，寓华采照人"
+  },
+  "熙": {
+    "trad": "熙",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "光明兴盛，寓和乐安宁"
+  },
+  "烈": {
+    "trad": "烈",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "刚烈旺盛，寓志气昂扬"
+  },
+  "亮": {
+    "trad": "亮",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "明亮磊落，寓聪明坦荡"
+  },
+  "彰": {
+    "trad": "彰",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "彰显昭著，寓声名远播"
+  },
+  "彪": {
+    "trad": "彪",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "虎纹炳然，寓雄武有文"
+  },
+  "炳": {
+    "trad": "炳",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "光明显赫，寓彪炳史册"
+  },
+  "融": {
+    "trad": "融",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "融合通达，寓圆融和洽"
+  },
+  "宁": {
+    "trad": "寧",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "安宁平和，寓心境宁谧"
+  },
+  "定": {
+    "trad": "定",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "安定沉稳，寓处变不惊"
+  },
+  "宝": {
+    "trad": "寶",
+    "strokes": 20,
+    "wuxing": "火",
+    "meaning": "珍宝可贵，寓珍贵难得"
+  },
+  "家": {
+    "trad": "家",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "家国担当，寓顾家有责"
+  },
+  "富": {
+    "trad": "富",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "富足丰盛，寓生活充裕"
+  },
+  "展": {
+    "trad": "展",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "施展开拓，寓才具得展"
+  },
+  "廷": {
+    "trad": "廷",
+    "strokes": 7,
+    "wuxing": "火",
+    "meaning": "朝廷端肃，寓仪范庄重"
+  },
+  "延": {
+    "trad": "延",
+    "strokes": 7,
+    "wuxing": "火",
+    "meaning": "延长延展，寓福泽绵延"
+  },
+  "张": {
+    "trad": "張",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "开张伸展，寓气局开展"
+  },
+  "征": {
+    "trad": "徵",
+    "strokes": 15,
+    "wuxing": "火",
+    "meaning": "远征进取，寓勇往直前"
+  },
+  "律": {
+    "trad": "律",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "音律法度，寓自律守正"
+  },
+  "德": {
+    "trad": "德",
+    "strokes": 15,
+    "wuxing": "火",
+    "meaning": "德行高尚，寓以德立身"
+  },
+  "志": {
+    "trad": "志",
+    "strokes": 7,
+    "wuxing": "火",
+    "meaning": "志向高远，寓立志有恒"
+  },
+  "忠": {
+    "trad": "忠",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "忠诚信实，寓忠厚可靠"
+  },
+  "政": {
+    "trad": "政",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "政事端正，寓方正有为"
+  },
+  "昂": {
+    "trad": "昂",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "昂扬振奋，寓意气风发"
+  },
+  "昌": {
+    "trad": "昌",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "昌盛兴隆，寓繁荣发达"
+  },
+  "明": {
+    "trad": "明",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "光明明智，寓明达事理"
+  },
+  "易": {
+    "trad": "易",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "变易通达，寓处事灵通"
+  },
+  "星": {
+    "trad": "星",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "星辰闪耀，寓卓然有光"
+  },
+  "映": {
+    "trad": "映",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "映照辉映，寓交相辉映"
+  },
+  "春": {
+    "trad": "春",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "春天生机，寓万物更新"
+  },
+  "晓": {
+    "trad": "曉",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "破晓知晓，寓聪明早慧"
+  },
+  "晋": {
+    "trad": "晉",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "晋级上进，寓步步高升"
+  },
+  "晨": {
+    "trad": "晨",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "清晨奋发，寓一日之计"
+  },
+  "普": {
+    "trad": "普",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "普照广大，寓惠及四方"
+  },
+  "景": {
+    "trad": "景",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "景象光明，寓前途可观"
+  },
+  "晴": {
+    "trad": "晴",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "晴朗开朗，寓心境明净"
+  },
+  "晶": {
+    "trad": "晶",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "晶莹澄澈，寓纯明透亮"
+  },
+  "智": {
+    "trad": "智",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "智慧明哲，寓睿智通达"
+  },
+  "畅": {
+    "trad": "暢",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "畅达舒畅，寓事理通顺"
+  },
+  "曦": {
+    "trad": "曦",
+    "strokes": 20,
+    "wuxing": "火",
+    "meaning": "晨曦希望，寓光明初启"
+  },
+  "旺": {
+    "trad": "旺",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "兴旺旺盛，寓生气充沛"
+  },
+  "昆": {
+    "trad": "昆",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "昆仑高大，寓卓荦不群"
+  },
+  "旦": {
+    "trad": "旦",
+    "strokes": 5,
+    "wuxing": "火",
+    "meaning": "平旦新生，寓一日伊始"
+  },
+  "日": {
+    "trad": "日",
+    "strokes": 4,
+    "wuxing": "火",
+    "meaning": "太阳光明，寓普照万物"
+  },
+  "旨": {
+    "trad": "旨",
+    "strokes": 6,
+    "wuxing": "火",
+    "meaning": "意旨美善，寓志趣纯正"
+  },
+  "旋": {
+    "trad": "旋",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "凯旋回旋，寓功成荣归"
+  },
+  "旗": {
+    "trad": "旗",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "旌旗引领，寓标举方向"
+  },
+  "施": {
+    "trad": "施",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "施与作为，寓有所作为"
+  },
+  "新": {
+    "trad": "新",
+    "strokes": 13,
+    "wuxing": "金",
+    "meaning": "日新又新，寓进取更新"
+  },
+  "腾": {
+    "trad": "騰",
+    "strokes": 20,
+    "wuxing": "火",
+    "meaning": "腾飞跃进，寓蒸蒸日上"
+  },
+  "骁": {
+    "trad": "驍",
+    "strokes": 22,
+    "wuxing": "火",
+    "meaning": "骁勇善战，寓勇健有胆"
+  },
+  "骐": {
+    "trad": "騏",
+    "strokes": 18,
+    "wuxing": "火",
+    "meaning": "骐骥良马，寓俊才可期"
+  },
+  "骏": {
+    "trad": "駿",
+    "strokes": 17,
+    "wuxing": "火",
+    "meaning": "骏马奔驰，寓卓越速达"
+  },
+  "鹏": {
+    "trad": "鵬",
+    "strokes": 19,
+    "wuxing": "火",
+    "meaning": "大鹏展翅，寓志向远大"
+  },
+  "凤": {
+    "trad": "鳳",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "凤凰祥瑞，寓非凡嘉兆"
+  },
+  "就": {
+    "trad": "就",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "成就有成，寓事竟其功"
+  },
+  "容": {
+    "trad": "容",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "包容仪容，寓宽和得体"
+  },
+  "察": {
+    "trad": "察",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "明察秋毫，寓洞见事理"
+  },
+  "戴": {
+    "trad": "戴",
+    "strokes": 18,
+    "wuxing": "火",
+    "meaning": "爱戴敬重，寓受人推尊"
+  },
+  "斗": {
+    "trad": "鬥",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "北斗定向，寓志向鲜明"
+  },
+  "尔": {
+    "trad": "爾",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "文雅美称，寓温文尔雅"
+  },
+  "安": {
+    "trad": "安",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "平安安定，寓宁谧可靠"
+  },
+  "坤": {
+    "trad": "坤",
+    "strokes": 8,
+    "wuxing": "土",
+    "meaning": "地道坤厚，寓厚德载物"
+  },
+  "城": {
+    "trad": "城",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "城池坚固，寓守成有方"
+  },
+  "培": {
+    "trad": "培",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "培养滋养，寓育德成才"
+  },
+  "堂": {
+    "trad": "堂",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "殿堂端正，寓气象堂皇"
+  },
+  "坚": {
+    "trad": "堅",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "坚固不移，寓意志坚定"
+  },
+  "墨": {
+    "trad": "墨",
+    "strokes": 15,
+    "wuxing": "土",
+    "meaning": "翰墨文采，寓学养深厚"
+  },
+  "均": {
+    "trad": "均",
+    "strokes": 7,
+    "wuxing": "土",
+    "meaning": "公允平和，寓公正持中"
+  },
+  "尧": {
+    "trad": "堯",
+    "strokes": 12,
+    "wuxing": "土",
+    "meaning": "圣君唐尧，寓德高望重"
+  },
+  "坦": {
+    "trad": "坦",
+    "strokes": 8,
+    "wuxing": "土",
+    "meaning": "坦荡平正，寓胸怀磊落"
+  },
+  "圭": {
+    "trad": "圭",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "玉圭礼器，寓品节端方"
+  },
+  "基": {
+    "trad": "基",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "根基稳固，寓基础深厚"
+  },
+  "岩": {
+    "trad": "巖",
+    "strokes": 23,
+    "wuxing": "土",
+    "meaning": "岩石坚毅，寓屹立不摇"
+  },
+  "岳": {
+    "trad": "嶽",
+    "strokes": 17,
+    "wuxing": "土",
+    "meaning": "五岳崇高，寓高大稳重"
+  },
+  "峰": {
+    "trad": "峯",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "山峰高远，寓超拔出众"
+  },
+  "峻": {
+    "trad": "峻",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "山高严正，寓挺拔有威"
+  },
+  "崇": {
+    "trad": "崇",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "崇高向上，寓尊崇向善"
+  },
+  "嵩": {
+    "trad": "嵩",
+    "strokes": 13,
+    "wuxing": "土",
+    "meaning": "嵩岳长久，寓高大绵远"
+  },
+  "巍": {
+    "trad": "巍",
+    "strokes": 21,
+    "wuxing": "土",
+    "meaning": "巍峨雄伟，寓气象万千"
+  },
+  "川": {
+    "trad": "川",
+    "strokes": 3,
+    "wuxing": "土",
+    "meaning": "山川开阔，寓器局宽广"
+  },
+  "州": {
+    "trad": "州",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "州域广大，寓格局开阔"
+  },
+  "原": {
+    "trad": "原",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "原野本源，寓淳厚有本"
+  },
+  "博": {
+    "trad": "博",
+    "strokes": 12,
+    "wuxing": "土",
+    "meaning": "博大精深，寓学识广博"
+  },
+  "厚": {
+    "trad": "厚",
+    "strokes": 9,
+    "wuxing": "土",
+    "meaning": "厚重笃实，寓德厚流光"
+  },
+  "圣": {
+    "trad": "聖",
+    "strokes": 13,
+    "wuxing": "土",
+    "meaning": "圣明睿智，寓德慧兼备"
+  },
+  "至": {
+    "trad": "至",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "至善圆满，寓追求极致"
+  },
+  "域": {
+    "trad": "域",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "疆域格局，寓视野开阔"
+  },
+  "宇": {
+    "trad": "宇",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "宇宙气宇，寓胸襟广阔"
+  },
+  "宙": {
+    "trad": "宙",
+    "strokes": 8,
+    "wuxing": "土",
+    "meaning": "宇宙悠远，寓时空宏阔"
+  },
+  "宏": {
+    "trad": "宏",
+    "strokes": 7,
+    "wuxing": "土",
+    "meaning": "宏大高远，寓志存千里"
+  },
+  "宸": {
+    "trad": "宸",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "北辰帝居，寓尊贵端正"
+  },
+  "宥": {
+    "trad": "宥",
+    "strokes": 9,
+    "wuxing": "土",
+    "meaning": "宽宥仁厚，寓恕以待人"
+  },
+  "宜": {
+    "trad": "宜",
+    "strokes": 8,
+    "wuxing": "土",
+    "meaning": "适宜妥帖，寓诸事得宜"
+  },
+  "辰": {
+    "trad": "辰",
+    "strokes": 7,
+    "wuxing": "土",
+    "meaning": "星辰时辰，寓光明时运"
+  },
+  "轩": {
+    "trad": "軒",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "高轩气宇，寓气质不凡"
+  },
+  "有": {
+    "trad": "有",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "富有丰实，寓所得充实"
+  },
+  "恩": {
+    "trad": "恩",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "恩德惠人，寓感恩施惠"
+  },
+  "意": {
+    "trad": "意",
+    "strokes": 13,
+    "wuxing": "土",
+    "meaning": "意志主见，寓心志坚定"
+  },
+  "懿": {
+    "trad": "懿",
+    "strokes": 22,
+    "wuxing": "土",
+    "meaning": "美善之德，寓德行美好"
+  },
+  "怡": {
+    "trad": "怡",
+    "strokes": 9,
+    "wuxing": "土",
+    "meaning": "和悦舒畅，寓性情和乐"
+  },
+  "寻": {
+    "trad": "尋",
+    "strokes": 12,
+    "wuxing": "土",
+    "meaning": "寻觅探求，寓好学深思"
+  },
+  "尘": {
+    "trad": "塵",
+    "strokes": 14,
+    "wuxing": "土",
+    "meaning": "征尘仆仆，寓勤勉上路"
+  },
+  "在": {
+    "trad": "在",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "担当在场，寓踏实可靠"
+  },
+  "堃": {
+    "trad": "堃",
+    "strokes": 11,
+    "wuxing": "土",
+    "meaning": "同坤厚德，寓载物有容"
+  },
+  "壁": {
+    "trad": "壁",
+    "strokes": 16,
+    "wuxing": "土",
+    "meaning": "墙壁正直，寓立身如壁"
+  },
+  "垒": {
+    "trad": "壘",
+    "strokes": 18,
+    "wuxing": "土",
+    "meaning": "壁垒稳健，寓防守有方"
+  },
+  "埔": {
+    "trad": "埔",
+    "strokes": 10,
+    "wuxing": "土",
+    "meaning": "平埔开阔，寓地面宽广"
+  },
+  "垣": {
+    "trad": "垣",
+    "strokes": 9,
+    "wuxing": "土",
+    "meaning": "墙垣护持，寓守护周全"
+  },
+  "钧": {
+    "trad": "鈞",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "千钧之重，寓担当重大"
+  },
+  "铭": {
+    "trad": "銘",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "铭记铭文，寓谨记善德"
+  },
+  "锐": {
+    "trad": "銳",
+    "strokes": 15,
+    "wuxing": "金",
+    "meaning": "锐利精进，寓进取敏锐"
+  },
+  "锋": {
+    "trad": "鋒",
+    "strokes": 15,
+    "wuxing": "金",
+    "meaning": "锋芒才干，寓出众有刃"
+  },
+  "锦": {
+    "trad": "錦",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "锦绣前程，寓前途华美"
+  },
+  "铠": {
+    "trad": "鎧",
+    "strokes": 18,
+    "wuxing": "金",
+    "meaning": "铠甲护身，寓刚强可恃"
+  },
+  "镇": {
+    "trad": "鎮",
+    "strokes": 18,
+    "wuxing": "金",
+    "meaning": "镇定威重，寓安邦定国"
+  },
+  "铮": {
+    "trad": "錚",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "金声铮铮，寓刚正不阿"
+  },
+  "钰": {
+    "trad": "鈺",
+    "strokes": 13,
+    "wuxing": "金",
+    "meaning": "坚金珍贵，寓品重价实"
+  },
+  "铎": {
+    "trad": "鐸",
+    "strokes": 21,
+    "wuxing": "金",
+    "meaning": "木铎警世，寓振聋发聩"
+  },
+  "锡": {
+    "trad": "錫",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "锡命赐与，寓恩泽在身"
+  },
+  "鑫": {
+    "trad": "鑫",
+    "strokes": 24,
+    "wuxing": "金",
+    "meaning": "三金富盛，寓财用充盈"
+  },
+  "钊": {
+    "trad": "釗",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "勉励奋勉，寓自强不息"
+  },
+  "刚": {
+    "trad": "剛",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "刚强果决，寓正直有力"
+  },
+  "钢": {
+    "trad": "鋼",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "钢铁坚韧，寓百炼成钢"
+  },
+  "键": {
+    "trad": "鍵",
+    "strokes": 17,
+    "wuxing": "金",
+    "meaning": "关键可靠，寓紧要可托"
+  },
+  "钦": {
+    "trad": "欽",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "钦敬推尊，寓受人景仰"
+  },
+  "铨": {
+    "trad": "銓",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "选才衡量，寓公正明鉴"
+  },
+  "铸": {
+    "trad": "鑄",
+    "strokes": 22,
+    "wuxing": "金",
+    "meaning": "铸就成就，寓百炼成器"
+  },
+  "鉴": {
+    "trad": "鑑",
+    "strokes": 22,
+    "wuxing": "金",
+    "meaning": "鉴察明辨，寓明智如镜"
+  },
+  "凯": {
+    "trad": "凱",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "凯旋喜悦，寓胜利荣归"
+  },
+  "胜": {
+    "trad": "勝",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "胜利超越，寓克成其功"
+  },
+  "成": {
+    "trad": "成",
+    "strokes": 7,
+    "wuxing": "金",
+    "meaning": "成功有成，寓事竟其志"
+  },
+  "武": {
+    "trad": "武",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "勇武刚健，寓孔武有力"
+  },
+  "威": {
+    "trad": "威",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "威严庄重，寓有威可畏"
+  },
+  "建": {
+    "trad": "建",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "建立开创，寓建设有为"
+  },
+  "开": {
+    "trad": "開",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "开启开拓，寓开创新局"
+  },
+  "实": {
+    "trad": "實",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "诚实充实，寓笃实不虚"
+  },
+  "宣": {
+    "trad": "宣",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "宣扬畅达，寓开朗条畅"
+  },
+  "宪": {
+    "trad": "憲",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "法度宪则，寓守正不阿"
+  },
+  "密": {
+    "trad": "密",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "缜密周详，寓虑事周全"
+  },
+  "寿": {
+    "trad": "壽",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "长寿康宁，寓寿考维祺"
+  },
+  "封": {
+    "trad": "封",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "封疆受命，寓荣膺重托"
+  },
+  "将": {
+    "trad": "將",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "将才统御，寓帅才可期"
+  },
+  "尊": {
+    "trad": "尊",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "尊敬自重，寓品高望重"
+  },
+  "尚": {
+    "trad": "尚",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "高尚崇尚，寓志趣高洁"
+  },
+  "常": {
+    "trad": "常",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "恒常有恒，寓久而不迁"
+  },
+  "度": {
+    "trad": "度",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "气度法度，寓从容有节"
+  },
+  "得": {
+    "trad": "得",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "有得收获，寓所得不虚"
+  },
+  "循": {
+    "trad": "循",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "遵循守道，寓循理而行"
+  },
+  "心": {
+    "trad": "心",
+    "strokes": 4,
+    "wuxing": "金",
+    "meaning": "心地赤诚，寓真心待人"
+  },
+  "思": {
+    "trad": "思",
+    "strokes": 9,
+    "wuxing": "金",
+    "meaning": "思虑善思，寓敏于思考"
+  },
+  "悦": {
+    "trad": "悅",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "喜悦欢愉，寓心情和乐"
+  },
+  "慈": {
+    "trad": "慈",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "慈爱仁厚，寓宅心仁厚"
+  },
+  "慕": {
+    "trad": "慕",
+    "strokes": 15,
+    "wuxing": "金",
+    "meaning": "仰慕向往，寓向善慕贤"
+  },
+  "承": {
+    "trad": "承",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "承继担当，寓绍续前业"
+  },
+  "捷": {
+    "trad": "捷",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "敏捷捷报，寓成功迅速"
+  },
+  "书": {
+    "trad": "書",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "诗书文雅，寓书香盈庭"
+  },
+  "时": {
+    "trad": "時",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "时运时机，寓审时度势"
+  },
+  "朝": {
+    "trad": "朝",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "朝阳朝廷，寓向上向明"
+  },
+  "宗": {
+    "trad": "宗",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "宗族宗旨，寓根本不移"
+  },
+  "审": {
+    "trad": "審",
+    "strokes": 15,
+    "wuxing": "金",
+    "meaning": "审慎周详，寓三思后行"
+  },
+  "宰": {
+    "trad": "宰",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "主宰裁断，寓能定大事"
+  },
+  "宿": {
+    "trad": "宿",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "星宿天命，寓光华在天"
+  },
+  "少": {
+    "trad": "少",
+    "strokes": 4,
+    "wuxing": "金",
+    "meaning": "少年英发，寓青春有为"
+  },
+  "左": {
+    "trad": "左",
+    "strokes": 5,
+    "wuxing": "金",
+    "meaning": "辅弼左右，寓得人助力"
+  },
+  "式": {
+    "trad": "式",
+    "strokes": 6,
+    "wuxing": "金",
+    "meaning": "法式楷则，寓足为典范"
+  },
+  "战": {
+    "trad": "戰",
+    "strokes": 16,
+    "wuxing": "金",
+    "meaning": "敢战勇毅，寓临事不惧"
+  },
+  "所": {
+    "trad": "所",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "安所处所，寓得其所哉"
+  },
+  "抒": {
+    "trad": "抒",
+    "strokes": 8,
+    "wuxing": "金",
+    "meaning": "抒发情志，寓畅所欲言"
+  },
+  "推": {
+    "trad": "推",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "推举举贤，寓与人为善"
+  },
+  "揭": {
+    "trad": "揭",
+    "strokes": 13,
+    "wuxing": "金",
+    "meaning": "揭示真相，寓明察秋毫"
+  },
+  "方": {
+    "trad": "方",
+    "strokes": 4,
+    "wuxing": "水",
+    "meaning": "方正有方，寓规矩绳墨"
+  },
+  "骞": {
+    "trad": "騫",
+    "strokes": 20,
+    "wuxing": "金",
+    "meaning": "高举飞起，寓意气昂扬"
+  },
+  "浩": {
+    "trad": "浩",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "浩大无边，寓气度恢宏"
+  },
+  "海": {
+    "trad": "海",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "大海宽广，寓胸怀如海"
+  },
+  "洋": {
+    "trad": "洋",
+    "strokes": 10,
+    "wuxing": "水",
+    "meaning": "海洋浩瀚，寓器局宏阔"
+  },
+  "泽": {
+    "trad": "澤",
+    "strokes": 17,
+    "wuxing": "水",
+    "meaning": "润泽恩德，寓惠及他人"
+  },
+  "润": {
+    "trad": "潤",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "滋润有涵，寓温润如玉"
+  },
+  "涵": {
+    "trad": "涵",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "涵养包容，寓深厚有容"
+  },
+  "澄": {
+    "trad": "澄",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "澄澈清明，寓心性纯净"
+  },
+  "清": {
+    "trad": "清",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "清正高洁，寓廉洁自守"
+  },
+  "涛": {
+    "trad": "濤",
+    "strokes": 18,
+    "wuxing": "水",
+    "meaning": "波涛雄阔，寓气势磅礴"
+  },
+  "淮": {
+    "trad": "淮",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "淮水绵长，寓源远流长"
+  },
+  "济": {
+    "trad": "濟",
+    "strokes": 18,
+    "wuxing": "水",
+    "meaning": "济助渡人，寓利物济世"
+  },
+  "淳": {
+    "trad": "淳",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "淳厚朴实，寓性情敦厚"
+  },
+  "深": {
+    "trad": "深",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "深厚深沉，寓思虑深远"
+  },
+  "渊": {
+    "trad": "淵",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "渊源渊深，寓学识渊博"
+  },
+  "源": {
+    "trad": "源",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "水源本源，寓根本充实"
+  },
+  "溪": {
+    "trad": "溪",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "溪流清澈，寓灵动澄明"
+  },
+  "河": {
+    "trad": "河",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "河流通达，寓绵长不息"
+  },
+  "江": {
+    "trad": "江",
+    "strokes": 7,
+    "wuxing": "水",
+    "meaning": "大江气魄，寓奔流向前"
+  },
+  "波": {
+    "trad": "波",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "水波灵动，寓进取不已"
+  },
+  "浪": {
+    "trad": "浪",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "波浪豪迈，寓壮阔有为"
+  },
+  "潮": {
+    "trad": "潮",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "潮汐应时，寓乘势而起"
+  },
+  "瀚": {
+    "trad": "瀚",
+    "strokes": 20,
+    "wuxing": "水",
+    "meaning": "浩瀚广大，寓学海无涯"
+  },
+  "沐": {
+    "trad": "沐",
+    "strokes": 8,
+    "wuxing": "水",
+    "meaning": "沐浴恩泽，寓蒙受惠泽"
+  },
+  "霖": {
+    "trad": "霖",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "甘霖润物，寓惠泽苍生"
+  },
+  "霄": {
+    "trad": "霄",
+    "strokes": 15,
+    "wuxing": "水",
+    "meaning": "云霄高远，寓志在青云"
+  },
+  "泉": {
+    "trad": "泉",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "泉水不绝，寓源源有本"
+  },
+  "泳": {
+    "trad": "泳",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "游泳潜行，寓沉潜进取"
+  },
+  "衍": {
+    "trad": "衍",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "延展流布，寓繁衍昌盛"
+  },
+  "泰": {
+    "trad": "泰",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "安泰康宁，寓通达安和"
+  },
+  "永": {
+    "trad": "永",
+    "strokes": 5,
+    "wuxing": "水",
+    "meaning": "长久永恒，寓福泽绵长"
+  },
+  "弘": {
+    "trad": "弘",
+    "strokes": 5,
+    "wuxing": "水",
+    "meaning": "弘大弘扬，寓光大门楣"
+  },
+  "恒": {
+    "trad": "恆",
+    "strokes": 10,
+    "wuxing": "水",
+    "meaning": "恒久有恒，寓持之以恒"
+  },
+  "惠": {
+    "trad": "惠",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "惠泽仁惠，寓施惠不倦"
+  },
+  "慧": {
+    "trad": "慧",
+    "strokes": 15,
+    "wuxing": "水",
+    "meaning": "智慧聪慧，寓睿哲明敏"
+  },
+  "敏": {
+    "trad": "敏",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "灵敏勤勉，寓聪敏好学"
+  },
+  "文": {
+    "trad": "文",
+    "strokes": 4,
+    "wuxing": "水",
+    "meaning": "文采文明，寓斯文有礼"
+  },
+  "斌": {
+    "trad": "斌",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "文质彬彬，寓文武兼修"
+  },
+  "斐": {
+    "trad": "斐",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "斐然成章，寓文采斐然"
+  },
+  "望": {
+    "trad": "望",
+    "strokes": 11,
+    "wuxing": "水",
+    "meaning": "名望期望，寓远志可望"
+  },
+  "翰": {
+    "trad": "翰",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "翰墨笔翰，寓文才出众"
+  },
+  "飞": {
+    "trad": "飛",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "飞翔超迈，寓高举远引"
+  },
+  "鸿": {
+    "trad": "鴻",
+    "strokes": 17,
+    "wuxing": "水",
+    "meaning": "鸿鹄大志，寓前程远大"
+  },
+  "鹤": {
+    "trad": "鶴",
+    "strokes": 21,
+    "wuxing": "水",
+    "meaning": "仙鹤高洁，寓清远长寿"
+  },
+  "鹭": {
+    "trad": "鷺",
+    "strokes": 23,
+    "wuxing": "水",
+    "meaning": "白鹭清雅，寓气质澄明"
+  },
+  "子": {
+    "trad": "子",
+    "strokes": 3,
+    "wuxing": "水",
+    "meaning": "男子美称，寓传承有继"
+  },
+  "孟": {
+    "trad": "孟",
+    "strokes": 8,
+    "wuxing": "水",
+    "meaning": "孟氏居长，寓贤良之长"
+  },
+  "孝": {
+    "trad": "孝",
+    "strokes": 7,
+    "wuxing": "水",
+    "meaning": "孝悌忠信，寓孝亲敬长"
+  },
+  "学": {
+    "trad": "學",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "学问好学，寓学而不厌"
+  },
+  "导": {
+    "trad": "導",
+    "strokes": 15,
+    "wuxing": "水",
+    "meaning": "引导开导，寓引人为善"
+  },
+  "宾": {
+    "trad": "賓",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "宾客礼敬，寓以礼待人"
+  },
+  "寒": {
+    "trad": "寒",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "寒窗励志，寓困而知勉"
+  },
+  "微": {
+    "trad": "微",
+    "strokes": 13,
+    "wuxing": "水",
+    "meaning": "精微细致，寓见微知著"
+  },
+  "往": {
+    "trad": "往",
+    "strokes": 8,
+    "wuxing": "水",
+    "meaning": "前往向前，寓一往无前"
+  },
+  "布": {
+    "trad": "布",
+    "strokes": 5,
+    "wuxing": "水",
+    "meaning": "布施广被，寓德泽广被"
+  },
+  "希": {
+    "trad": "希",
+    "strokes": 7,
+    "wuxing": "水",
+    "meaning": "希望希冀，寓心怀愿景"
+  },
+  "彭": {
+    "trad": "彭",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "盛大有声，寓声名远扬"
+  },
+  "抱": {
+    "trad": "抱",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "抱负在胸，寓志存高远"
+  },
+  "搏": {
+    "trad": "搏",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "拼搏奋进，寓勇猛精进"
+  },
+  "服": {
+    "trad": "服",
+    "strokes": 8,
+    "wuxing": "水",
+    "meaning": "信服德服，寓以德服人"
+  },
+  "满": {
+    "trad": "滿",
+    "strokes": 15,
+    "wuxing": "水",
+    "meaning": "完满充盈，寓福杯满溢"
+  },
+  "溢": {
+    "trad": "溢",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "充溢流美，寓才华横溢"
+  },
+  "澈": {
+    "trad": "澈",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "清澈见底，寓心地透明"
+  },
+  "潇": {
+    "trad": "瀟",
+    "strokes": 20,
+    "wuxing": "水",
+    "meaning": "潇洒出尘，寓神采俊逸"
+  },
+  "澜": {
+    "trad": "瀾",
+    "strokes": 21,
+    "wuxing": "水",
+    "meaning": "波澜壮阔，寓气势雄浑"
+  },
+  "澎": {
+    "trad": "澎",
+    "strokes": 16,
+    "wuxing": "水",
+    "meaning": "澎湃激荡，寓热情充沛"
+  },
+  "俊": {
+    "trad": "俊",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "俊秀卓越，寓才貌出众"
+  },
+  "然": {
+    "trad": "然",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "自然坦然，寓率真笃实"
+  },
+  "瑞": {
+    "trad": "瑞",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "祥瑞嘉兆，寓吉庆盈门"
+  },
+  "哲": {
+    "trad": "哲",
+    "strokes": 10,
+    "wuxing": "火",
+    "meaning": "明哲保身，寓睿智通达"
+  },
+  "睿": {
+    "trad": "睿",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "睿智明敏，寓通达事理"
+  },
+  "昱": {
+    "trad": "昱",
+    "strokes": 9,
+    "wuxing": "火",
+    "meaning": "日光昱耀，寓明亮有光"
+  },
+  "佑": {
+    "trad": "佑",
+    "strokes": 7,
+    "wuxing": "土",
+    "meaning": "庇佑护持，寓得天之助"
+  },
+  "诚": {
+    "trad": "誠",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "诚实守信，寓笃实不欺"
+  },
+  "航": {
+    "trad": "航",
+    "strokes": 10,
+    "wuxing": "水",
+    "meaning": "航行远征，寓乘风破浪"
+  },
+  "诺": {
+    "trad": "諾",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "承诺守信，寓一诺千金"
+  },
+  "谦": {
+    "trad": "謙",
+    "strokes": 17,
+    "wuxing": "木",
+    "meaning": "谦逊有礼，寓谦谦君子"
+  },
+  "衡": {
+    "trad": "衡",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "权衡公正，寓持中守正"
+  },
+  "鼎": {
+    "trad": "鼎",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "鼎盛鼎新，寓稳重兴盛"
+  },
+  "卓": {
+    "trad": "卓",
+    "strokes": 8,
+    "wuxing": "火",
+    "meaning": "卓然不群，寓超拔出众"
+  },
+  "逸": {
+    "trad": "逸",
+    "strokes": 15,
+    "wuxing": "土",
+    "meaning": "飘逸超逸，寓神采俊爽"
+  },
+  "恺": {
+    "trad": "愷",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "恺乐和乐，寓安康喜悦"
+  },
+  "琦": {
+    "trad": "琦",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "美玉琦玮，寓品德珍贵"
+  },
+  "琨": {
+    "trad": "琨",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "美玉琨瑶，寓资质温润"
+  },
+  "玮": {
+    "trad": "瑋",
+    "strokes": 14,
+    "wuxing": "木",
+    "meaning": "玉玮珍奇，寓珍贵出众"
+  },
+  "琪": {
+    "trad": "琪",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "琪花瑶草，寓美好珍贵"
+  },
+  "琳": {
+    "trad": "琳",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "琳琅满目，寓美玉相辉"
+  },
+  "瑜": {
+    "trad": "瑜",
+    "strokes": 14,
+    "wuxing": "金",
+    "meaning": "瑕不掩瑜，寓美德昭彰"
+  },
+  "琛": {
+    "trad": "琛",
+    "strokes": 13,
+    "wuxing": "金",
+    "meaning": "珍宝琛玉，寓才德可宝"
+  },
+  "瑾": {
+    "trad": "瑾",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "美玉瑾瑜，寓德辉内蕴"
+  },
+  "璟": {
+    "trad": "璟",
+    "strokes": 17,
+    "wuxing": "火",
+    "meaning": "玉光璟然，寓光华外发"
+  },
+  "琬": {
+    "trad": "琬",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "琬圭礼玉，寓温润有礼"
+  },
+  "琮": {
+    "trad": "琮",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "玉琮礼器，寓端方厚重"
+  },
+  "璞": {
+    "trad": "璞",
+    "strokes": 17,
+    "wuxing": "木",
+    "meaning": "璞玉浑金，寓天真未凿"
+  },
+  "言": {
+    "trad": "言",
+    "strokes": 7,
+    "wuxing": "木",
+    "meaning": "言语有章，寓慎言敏行"
+  },
+  "誉": {
+    "trad": "譽",
+    "strokes": 21,
+    "wuxing": "金",
+    "meaning": "名誉令誉，寓令闻广誉"
+  },
+  "谊": {
+    "trad": "誼",
+    "strokes": 15,
+    "wuxing": "木",
+    "meaning": "情谊深厚，寓重情尚义"
+  },
+  "谨": {
+    "trad": "謹",
+    "strokes": 18,
+    "wuxing": "木",
+    "meaning": "严谨审慎，寓恭谨有度"
+  },
+  "豪": {
+    "trad": "豪",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "豪迈壮阔，寓气魄雄健"
+  },
+  "英": {
+    "trad": "英",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "英华俊发，寓杰出之才"
+  },
+  "雄": {
+    "trad": "雄",
+    "strokes": 12,
+    "wuxing": "水",
+    "meaning": "雄健有力，寓英武不凡"
+  },
+  "毅": {
+    "trad": "毅",
+    "strokes": 15,
+    "wuxing": "金",
+    "meaning": "毅力坚毅，寓刚毅木讷"
+  },
+  "勇": {
+    "trad": "勇",
+    "strokes": 9,
+    "wuxing": "土",
+    "meaning": "勇敢无畏，寓见义勇为"
+  },
+  "仁": {
+    "trad": "仁",
+    "strokes": 4,
+    "wuxing": "金",
+    "meaning": "仁爱恻隐，寓仁者无敌"
+  },
+  "义": {
+    "trad": "義",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "义正道义，寓义薄云天"
+  },
+  "礼": {
+    "trad": "禮",
+    "strokes": 18,
+    "wuxing": "火",
+    "meaning": "礼仪礼敬，寓彬彬有礼"
+  },
+  "信": {
+    "trad": "信",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "信用诚信，寓言而有信"
+  },
+  "和": {
+    "trad": "和",
+    "strokes": 8,
+    "wuxing": "水",
+    "meaning": "和谐中和，寓致中和"
+  },
+  "平": {
+    "trad": "平",
+    "strokes": 5,
+    "wuxing": "水",
+    "meaning": "平和平安，寓心气和平"
+  },
+  "正": {
+    "trad": "正",
+    "strokes": 5,
+    "wuxing": "金",
+    "meaning": "正直端正，寓堂堂正正"
+  },
+  "直": {
+    "trad": "直",
+    "strokes": 8,
+    "wuxing": "木",
+    "meaning": "正直不阿，寓直道而行"
+  },
+  "真": {
+    "trad": "真",
+    "strokes": 10,
+    "wuxing": "金",
+    "meaning": "真诚率真，寓返璞归真"
+  },
+  "善": {
+    "trad": "善",
+    "strokes": 12,
+    "wuxing": "金",
+    "meaning": "善良嘉善，寓积善余庆"
+  },
+  "美": {
+    "trad": "美",
+    "strokes": 9,
+    "wuxing": "水",
+    "meaning": "美善美玉，寓美哉少年"
+  },
+  "福": {
+    "trad": "福",
+    "strokes": 14,
+    "wuxing": "水",
+    "meaning": "福泽福佑，寓福履绥之"
+  },
+  "禄": {
+    "trad": "祿",
+    "strokes": 13,
+    "wuxing": "水",
+    "meaning": "禄位俸禄，寓受禄于天"
+  },
+  "禧": {
+    "trad": "禧",
+    "strokes": 17,
+    "wuxing": "水",
+    "meaning": "禧庆吉祥，寓岁绥多禧"
+  },
+  "祥": {
+    "trad": "祥",
+    "strokes": 11,
+    "wuxing": "金",
+    "meaning": "吉祥如意，寓百祥骈臻"
+  },
+  "祺": {
+    "trad": "祺",
+    "strokes": 13,
+    "wuxing": "木",
+    "meaning": "祺祥安祺，寓维祺永绥"
+  },
+  "祐": {
+    "trad": "祐",
+    "strokes": 10,
+    "wuxing": "木",
+    "meaning": "神祐护佑，寓得佑安宁"
+  },
+  "祯": {
+    "trad": "禎",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "祯祥嘉庆，寓以贞承天"
+  },
+  "翊": {
+    "trad": "翊",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "辅翊飞翔，寓羽翼王室"
+  },
+  "翌": {
+    "trad": "翌",
+    "strokes": 11,
+    "wuxing": "木",
+    "meaning": "翌日明朝，寓来日方长"
+  },
+  "羽": {
+    "trad": "羽",
+    "strokes": 6,
+    "wuxing": "土",
+    "meaning": "羽翼丰满，寓振翅高飞"
+  },
+  "翮": {
+    "trad": "翮",
+    "strokes": 16,
+    "wuxing": "木",
+    "meaning": "羽翮劲飞，寓健翮凌云"
+  },
+  "耀": {
+    "trad": "耀",
+    "strokes": 20,
+    "wuxing": "火",
+    "meaning": "光耀门楣，寓荣显有光"
+  },
+  "辉": {
+    "trad": "輝",
+    "strokes": 15,
+    "wuxing": "火",
+    "meaning": "光辉灿烂，寓辉光日新"
+  },
+  "晗": {
+    "trad": "晗",
+    "strokes": 11,
+    "wuxing": "火",
+    "meaning": "天将明晗，寓希望初现"
+  },
+  "暄": {
+    "trad": "暄",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "暄暖和煦，寓春日载阳"
+  },
+  "暖": {
+    "trad": "暖",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "温暖和厚，寓温润可亲"
+  },
+  "灼": {
+    "trad": "灼",
+    "strokes": 7,
+    "wuxing": "火",
+    "meaning": "灼见真知，寓明察秋毫"
+  },
+  "焰": {
+    "trad": "焰",
+    "strokes": 12,
+    "wuxing": "火",
+    "meaning": "火焰升腾，寓气势如虹"
+  },
+  "煌": {
+    "trad": "煌",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "辉煌灿烂，寓功业辉煌"
+  },
+  "熹": {
+    "trad": "熹",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "晨光熹微，寓光明将启"
+  },
+  "炽": {
+    "trad": "熾",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "炽盛旺盛，寓热情充沛"
+  },
+  "照": {
+    "trad": "照",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "照临光明，寓光被四表"
+  },
+  "煦": {
+    "trad": "煦",
+    "strokes": 13,
+    "wuxing": "火",
+    "meaning": "和煦温厚，寓春风风人"
+  },
+  "熊": {
+    "trad": "熊",
+    "strokes": 14,
+    "wuxing": "火",
+    "meaning": "熊熊大火，寓势不可挡"
+  },
+  "熟": {
+    "trad": "熟",
+    "strokes": 15,
+    "wuxing": "火",
+    "meaning": "娴熟精熟，寓技进乎道"
+  },
+  "燃": {
+    "trad": "燃",
+    "strokes": 16,
+    "wuxing": "火",
+    "meaning": "燃烧热情，寓激情澎湃"
+  },
+  "燮": {
+    "trad": "燮",
+    "strokes": 17,
+    "wuxing": "火",
+    "meaning": "燮理调和，寓调和鼎鼐"
+  }
+}
