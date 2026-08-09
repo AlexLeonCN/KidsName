@@ -631,15 +631,18 @@ def row_md(i: int, r: dict, sur_st: int) -> str:
         f"地{w['地格']}{lb['地格']}／外{w['外格']}{lb['外格']}／"
         f"总{w['总格']}{lb['总格']}"
     )
-    sancai_cell = f"{r['sancai']}（{r['sc_level']}）<br>{r['sc_desc']}"
+    # 三才配置与三才吉凶分列标注
+    sancai_cfg = f"{'·'.join(r['sancai'])}（天·人·地）"
+    sancai_luck = r["sc_level"]
+    sancai_desc = r["sc_desc"]
     wuxing_cell = (
         f"字义：梁木·{c1.ch}{c1.wuxing}·{c2.ch}{c2.wuxing}<br>"
-        f"三才：{'·'.join(r['sancai'])}"
+        f"三才五行：{'·'.join(r['sancai'])}"
     )
     meaning = f"{c1.ch}：{c1.meaning}；{c2.ch}：{c2.meaning}"
     return (
         f"| {i} | {r['name']} | {stroke_cell} | {wuge_cell} | "
-        f"{sancai_cell} | {wuxing_cell} | {meaning} |"
+        f"{sancai_cfg} | {sancai_luck} | {sancai_desc} | {wuxing_cell} | {meaning} |"
     )
 
 
@@ -743,8 +746,8 @@ def main() -> None:
     picks = picks[:100]
 
     table_header = [
-        "| 序号 | 姓名 | 康熙笔画（繁） | 五格（数/吉凶） | 三才 | 五行 | 释义 |",
-        "| ---: | --- | --- | --- | --- | --- | --- |",
+        "| 序号 | 姓名 | 康熙笔画（繁） | 五格（数/吉凶） | 三才配置 | 三才吉凶 | 三才释义 | 五行 | 释义 |",
+        "| ---: | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     lines: List[str] = [
